@@ -10,7 +10,7 @@ Exact-build Magisk/KernelSU/APatch module enabling **Wi-Fi 7 (802.11be)**, **6 G
 - Hotspot protocol reported by the client: `802.11be`
 - Band/channel: 6 GHz, channel 133 (`6615 MHz`)
 - Channel width: 320 MHz
-- Client negotiated link rate observed: 4803/4803 Mbps
+- Client negotiated link rate observed: 5188/5188 Mbps
 - Security: WPA3-Personal
 - Hotspot TX power after automatic recovery: `24.00 dBm` (driver-reported)
 - Tested client: Intel Wi-Fi 7 BE200 320 MHz
