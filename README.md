@@ -19,12 +19,12 @@ Exact-build Magisk/KernelSU/APatch module enabling **Wi-Fi 7 (802.11be)**, **6 G
 
 Install the ZIP attached to the latest release:
 
-`POCO-F7-crDroid-WiFi7-6GHz-v0.4-combined-test.zip`
+`POCO-F7-crDroid-WiFi7-6GHz-v0.4.2-private-libs.zip`
 
 SHA-256:
 
 ```text
-bb895792a200e9b667a6f7128727214758358d7708a8167f64f0402916c163c3
+sha256:6cae24908bb8e5f792956342d127c3bb8d07cf47c62dcc563e525b44c94c0ec1
 ```
 
 ## Exact compatibility guard
