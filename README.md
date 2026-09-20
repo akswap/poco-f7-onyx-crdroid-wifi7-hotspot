@@ -1,4 +1,4 @@
-# POCO F7 (onyx) crDroid Wi-Fi 7 + 6 GHz Hotspot
+# POCO F7 (onyx) crDroid Wi-Fi 7 + 6 GHz Hotspot (Magisk Module)
 
 Exact-build Magisk/KernelSU/APatch module enabling **Wi-Fi 7 (802.11be)**, **6 GHz client/SoftAP**, **320 MHz channel width**, and automatic recovery from the 6 GHz hotspot's low-power `8.00 dBm` state on the POCO F7 (`onyx`).
 
