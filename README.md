@@ -7,7 +7,7 @@ Exact-build Magisk/KernelSU/APatch module enabling **Wi-Fi 7 (802.11be)**, **6 G
 - Device: POCO F7 (`onyx`)
 - ROM: crDroid Android 16, v12.12, build 20260913
 - Vendor: `OS3.0.7.0.WOLMIXM`
-- Hotspot protocol reported by the client: `802.11be`
+- Hotspot protocol reported by the client: `802.11be` Wi-Fi 7
 - Band/channel: 6 GHz, channel 133 (`6615 MHz`)
 - Channel width: 320 MHz
 - Client negotiated link rate observed: 5188/5188 Mbps
