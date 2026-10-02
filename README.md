@@ -1,8 +1,10 @@
 # POCO F7 (onyx) crDroid Wi-Fi 7 + 6 GHz Hotspot (Magisk Module)
+<img width="160" height="121" alt="dualsta" src="https://github.com/user-attachments/assets/6209bdfc-4d69-4754-96ff-59ba607a216d" />
 
 Exact-build Magisk/KernelSU/APatch module enabling **Wi-Fi 7 (802.11be)**, **6 GHz client/SoftAP**, **320 MHz channel width**, and automatic recovery from the 6 GHz hotspot's low-power `8.00 dBm` state on the POCO F7 (`onyx`).
 
-## Verified result
+## Verified result![Uploading dualsta.png…]()
+
 
 - Device: POCO F7 (`onyx`)
 - ROM: crDroid Android 16, v12.12, build 20260913
